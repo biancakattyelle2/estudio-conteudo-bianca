@@ -1,0 +1,7 @@
+estudio/originais/
+estudio/entregas/
+estudio/amostras/
+estudio/projeto/node_modules/
+estudio/projeto/public/
+estudio/projeto/out/
+.env
